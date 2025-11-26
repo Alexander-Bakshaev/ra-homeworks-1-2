@@ -1,7 +1,7 @@
 # 🛍️ Карточка товара для интернет-магазина (классовый компонент)
 
-[![Live Demo](https://img.shields.io/badge/demo-🌐%20Live%20Demo-brightgreen)](https://ra-homeworks-1-2-2tkxwikj1-maxim-terltskiis-projects.vercel.app/)
-![Vercel Deploy](https://deploy-badge.vercel.app/vercel/ra-homeworks-1-2-git-main-maxim-terltskiis-projects)
+[![Live Demo](https://img.shields.io/badge/demo-🌐%20Live%20Demo-brightgreen)](https://ra-homeworks-1-2-jqu5ldf2n-alexs-projects-942dd518.vercel.app)
+[![Vercel Deploy](https://deploy-badge.vercel.app/vercel/ra-homeworks-1-2?accountId=alexs-projects-942dd518)](https://ra-homeworks-1-2.vercel.app)
 
 Проект представляет собой карточку товара для интернет-магазина, реализованную как классовый React-компонент.
 
